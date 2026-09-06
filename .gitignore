@@ -1,0 +1,8 @@
+/account-server
+/account-server.exe
+/log/
+**/log/*.log
+*.pem
+.env
+.env.*
+!.env.example

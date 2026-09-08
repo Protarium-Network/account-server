@@ -94,3 +94,5 @@ go test ./...
 ## License
 
 [AGPL-3.0](LICENSE), matching `nex-protocols-common-go`.
+
+_Deployed and maintained as part of the [Protarium Network](https://github.com/Protarium-Network) Wii U online service revival project._

@@ -91,9 +91,9 @@ that routes your console account domain to `PN_ACCOUNT_HTTP_LISTEN`.
 go test ./...
 ```
 
-## License
+## License & Copyright
 
-[AGPL-3.0](LICENSE), matching `nex-protocols-common-go`.
+This project is licensed under [AGPLv3.0](LICENSE). Copyright © 2026 Protarium Network.
 
 _Deployed and maintained as part of the [Protarium Network](https://github.com/Protarium-Network) Wii U online service revival project._
 _Derived from Pretendo Network’s original codebase (PretendoNetwork). Copyright (C) Pretendo Network contributors._
